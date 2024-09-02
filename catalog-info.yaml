@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pdf-viewer-react
+  description: To display pdf on webpages
+spec:
+  type: website
+  lifecycle: production
+  owner: pritam-sadhu
